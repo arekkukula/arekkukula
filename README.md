@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @arekkukula
 - Angular Developer from Kraków, Poland
-- Experienced in RxJS, NgRx
+- Professional experience in RxJS and NgRx
 - Prioritize clean and performant code
+- Typescript aficionado
 
 <!---
 arekkukula/arekkukula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
