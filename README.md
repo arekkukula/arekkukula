@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arekkukula
+👋 Hi, I’m @arekkukula
 - Angular Developer from Kraków, Poland
 - Professional experience in RxJS and NgRx
 - Prioritize clean and performant code
